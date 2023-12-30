@@ -1,0 +1,1019 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extract_about_property_land guid="5fc53622-f5e9-4e18-a463-c42ad6ca16ff"
+    qr="https://rosreestr.gov.ru/extract-check/?5fc53622-f5e9-4e18-a463-c42ad6ca16ff">
+    <details_statement>
+        <group_top_requisites>
+            <organ_registr_rights>Филиал публично-правовой компании "Роскадастр" по Московской
+                области</organ_registr_rights>
+            <date_formation>2023-11-24</date_formation>
+            <registration_number>КУВИ-001/2023-265887407</registration_number>
+        </group_top_requisites>
+    </details_statement>
+    <details_request>
+        <date_received_request>2023-11-24</date_received_request>
+        <date_receipt_request_reg_authority_rights>2023-11-24</date_receipt_request_reg_authority_rights>
+    </details_request>
+    <land_record>
+        <record_info>
+            <registration_date>2021-08-05T13:03:36+00:00</registration_date>
+        </record_info>
+        <object>
+            <common_data>
+                <cad_number>50:12:0060110:469</cad_number>
+                <quarter_cad_number>50:12:0060110</quarter_cad_number>
+                <type>
+                    <code>002001001000</code>
+                    <value>Земельный участок</value>
+                </type>
+            </common_data>
+            <subtype>
+                <code>01</code>
+                <value>Землепользование</value>
+            </subtype>
+        </object>
+        <cad_links>
+            <ascendant_cad_numbers>
+                <ascendant_cad_number>
+                    <cad_number>50:12:0060110:11</cad_number>
+                </ascendant_cad_number>
+            </ascendant_cad_numbers>
+        </cad_links>
+        <params>
+            <category>
+                <type>
+                    <code>003003000000</code>
+                    <value>Земли промышленности, энергетики, транспорта, связи, радиовещания,
+                        телевидения, информатики, земли для обеспечения космической деятельности,
+                        земли обороны, безопасности и земли иного специального назначения</value>
+                </type>
+            </category>
+            <permitted_use>
+                <permitted_use_established>
+                    <by_document>Приюты для животных</by_document>
+                </permitted_use_established>
+            </permitted_use>
+            <area>
+                <type>
+                    <code>009</code>
+                    <value>Уточненная площадь</value>
+                </type>
+                <value>4944</value>
+                <inaccuracy>14.75</inaccuracy>
+            </area>
+        </params>
+        <address_location>
+            <address>
+                <readable_address>141000, Московская область, г Мытищи, д Шолохово, Российская
+                    Федерация, городской округ Мытищи, деревня Шолохово</readable_address>
+            </address>
+        </address_location>
+        <cad_works>
+            <cad_work>
+                <work_type>образованием 19 земельных участков путем раздела земельного участка с
+                    кадастровым номером 50:12:0060110:11, расположенного обл. Московская, р-н
+                    Мытищинский, сельское поселение Федоскинское, вблизи д.Шолохово, АОЗТ схп
+                    "Менжинец", участок 30</work_type>
+                <fio_cad_ingineer>
+                    <surname>Горбачева</surname>
+                    <name>Татьяна</name>
+                    <patronymic>Сергеевна</patronymic>
+                </fio_cad_ingineer>
+            </cad_work>
+        </cad_works>
+        <zones_and_boundaries>
+            <special_use_boundaries>
+                <special_use_boundary>
+                    <reg_numb_border>50:00-6.1474</reg_numb_border>
+                </special_use_boundary>
+                <special_use_boundary>
+                    <reg_numb_border>50:00-6.568</reg_numb_border>
+                </special_use_boundary>
+                <special_use_boundary>
+                    <reg_numb_border>50:00-6.2128</reg_numb_border>
+                </special_use_boundary>
+            </special_use_boundaries>
+        </zones_and_boundaries>
+        <cost>
+            <value>11603617.44</value>
+        </cost>
+        <object_parts>
+            <object_part>
+                <part_number>1</part_number>
+                <mnemonic>:ЗУ9/чзу1</mnemonic>
+                <entry_date>2021-08-05</entry_date>
+                <contours>
+                    <contour>
+                        <entity_spatial>
+                            <sk_id>МСК-50, зона 2</sk_id>
+                            <spatials_elements>
+                                <spatial_element>
+                                    <ordinates>
+                                        <ordinate>
+                                            <x>500905.1</x>
+                                            <y>2191724.9</y>
+                                            <ord_nmb>1</ord_nmb>
+                                            <num_geopoint>160</num_geopoint>
+                                            <geopoint_zacrep>иной способ закрепления</geopoint_zacrep>
+                                            <delta_geopoint>0.1</delta_geopoint>
+                                        </ordinate>
+                                        <ordinate>
+                                            <x>500901.4</x>
+                                            <y>2191732.09</y>
+                                            <ord_nmb>2</ord_nmb>
+                                            <num_geopoint>345</num_geopoint>
+                                            <geopoint_zacrep>иной способ закрепления</geopoint_zacrep>
+                                            <delta_geopoint>0.1</delta_geopoint>
+                                        </ordinate>
+                                        <ordinate>
+                                            <x>500777.63</x>
+                                            <y>2191710.73</y>
+                                            <ord_nmb>3</ord_nmb>
+                                            <num_geopoint>348</num_geopoint>
+                                            <geopoint_zacrep>иной способ закрепления</geopoint_zacrep>
+                                            <delta_geopoint>0.1</delta_geopoint>
+                                        </ordinate>
+                                        <ordinate>
+                                            <x>500772.33</x>
+                                            <y>2191705.95</y>
+                                            <ord_nmb>4</ord_nmb>
+                                            <num_geopoint>170</num_geopoint>
+                                            <geopoint_zacrep>иной способ закрепления</geopoint_zacrep>
+                                            <delta_geopoint>0.1</delta_geopoint>
+                                        </ordinate>
+                                        <ordinate>
+                                            <x>500773.82</x>
+                                            <y>2191704.12</y>
+                                            <ord_nmb>5</ord_nmb>
+                                            <num_geopoint>171</num_geopoint>
+                                            <geopoint_zacrep>иной способ закрепления</geopoint_zacrep>
+                                            <delta_geopoint>0.1</delta_geopoint>
+                                        </ordinate>
+                                        <ordinate>
+                                            <x>500776.8</x>
+                                            <y>2191700.47</y>
+                                            <ord_nmb>6</ord_nmb>
+                                            <num_geopoint>172</num_geopoint>
+                                            <geopoint_zacrep>иной способ закрепления</geopoint_zacrep>
+                                            <delta_geopoint>0.1</delta_geopoint>
+                                        </ordinate>
+                                        <ordinate>
+                                            <x>500777.56</x>
+                                            <y>2191701.02</y>
+                                            <ord_nmb>7</ord_nmb>
+                                            <num_geopoint>173</num_geopoint>
+                                            <geopoint_zacrep>иной способ закрепления</geopoint_zacrep>
+                                            <delta_geopoint>0.1</delta_geopoint>
+                                        </ordinate>
+                                        <ordinate>
+                                            <x>500780.02</x>
+                                            <y>2191702.45</y>
+                                            <ord_nmb>8</ord_nmb>
+                                            <num_geopoint>174</num_geopoint>
+                                            <geopoint_zacrep>иной способ закрепления</geopoint_zacrep>
+                                            <delta_geopoint>0.1</delta_geopoint>
+                                        </ordinate>
+                                        <ordinate>
+                                            <x>500782.77</x>
+                                            <y>2191703.59</y>
+                                            <ord_nmb>9</ord_nmb>
+                                            <num_geopoint>175</num_geopoint>
+                                            <geopoint_zacrep>иной способ закрепления</geopoint_zacrep>
+                                            <delta_geopoint>0.1</delta_geopoint>
+                                        </ordinate>
+                                        <ordinate>
+                                            <x>500785.37</x>
+                                            <y>2191704.31</y>
+                                            <ord_nmb>10</ord_nmb>
+                                            <num_geopoint>176</num_geopoint>
+                                            <geopoint_zacrep>иной способ закрепления</geopoint_zacrep>
+                                            <delta_geopoint>0.1</delta_geopoint>
+                                        </ordinate>
+                                        <ordinate>
+                                            <x>500905.1</x>
+                                            <y>2191724.9</y>
+                                            <ord_nmb>1</ord_nmb>
+                                            <num_geopoint>160</num_geopoint>
+                                            <geopoint_zacrep>иной способ закрепления</geopoint_zacrep>
+                                            <delta_geopoint>0.1</delta_geopoint>
+                                        </ordinate>
+                                    </ordinates>
+                                </spatial_element>
+                            </spatials_elements>
+                        </entity_spatial>
+                    </contour>
+                </contours>
+                <area>
+                    <type>
+                        <code>009</code>
+                        <value>Уточненная площадь</value>
+                    </type>
+                    <value>1013</value>
+                    <inaccuracy>9.48</inaccuracy>
+                </area>
+            </object_part>
+            <object_part>
+                <part_number>2</part_number>
+                <mnemonic>50:00-6.1474-ЧЗУ2</mnemonic>
+                <entry_date>2021-08-05</entry_date>
+                <contours>
+                    <contour>
+                        <entity_spatial>
+                            <spatials_elements>
+                                <spatial_element>
+                                    <ordinates>
+                                        <ordinate>
+                                            <x>500776.89</x>
+                                            <y>2191700.54</y>
+                                            <ord_nmb>1</ord_nmb>
+                                        </ordinate>
+                                        <ordinate>
+                                            <x>500777.56</x>
+                                            <y>2191701.02</y>
+                                            <ord_nmb>2</ord_nmb>
+                                        </ordinate>
+                                        <ordinate>
+                                            <x>500777.98</x>
+                                            <y>2191701.26</y>
+                                            <ord_nmb>3</ord_nmb>
+                                        </ordinate>
+                                        <ordinate>
+                                            <x>500777.32</x>
+                                            <y>2191701.15</y>
+                                            <ord_nmb>4</ord_nmb>
+                                        </ordinate>
+                                        <ordinate>
+                                            <x>500776.89</x>
+                                            <y>2191700.54</y>
+                                            <ord_nmb>1</ord_nmb>
+                                        </ordinate>
+                                    </ordinates>
+                                </spatial_element>
+                            </spatials_elements>
+                        </entity_spatial>
+                    </contour>
+                </contours>
+                <area>
+                    <type>
+                        <code>002</code>
+                        <value>Общая площадь</value>
+                    </type>
+                    <value>0</value>
+                </area>
+                <content_restrictions>
+                    <reg_numb_border>
+                        <reg_number>50:00-6.1474</reg_number>
+                    </reg_numb_border>
+                </content_restrictions>
+            </object_part>
+            <object_part>
+                <part_number>3</part_number>
+                <mnemonic>50:00-6.568-ЧЗУ3</mnemonic>
+                <entry_date>2021-08-05</entry_date>
+                <contours>
+                    <contour>
+                        <number_pp>1</number_pp>
+                        <area>
+                            <type>
+                                <code>009</code>
+                                <value>Уточненная площадь</value>
+                            </type>
+                            <value>2.56</value>
+                        </area>
+                        <entity_spatial>
+                            <spatials_elements>
+                                <spatial_element>
+                                    <ordinates>
+                                        <ordinate>
+                                            <x>500776.4</x>
+                                            <y>2191700.96</y>
+                                            <ord_nmb>1</ord_nmb>
+                                        </ordinate>
+                                        <ordinate>
+                                            <x>500776.8</x>
+                                            <y>2191700.47</y>
+                                            <ord_nmb>2</ord_nmb>
+                                        </ordinate>
+                                        <ordinate>
+                                            <x>500777.56</x>
+                                            <y>2191701.02</y>
+                                            <ord_nmb>3</ord_nmb>
+                                        </ordinate>
+                                        <ordinate>
+                                            <x>500780.02</x>
+                                            <y>2191702.45</y>
+                                            <ord_nmb>4</ord_nmb>
+                                        </ordinate>
+                                        <ordinate>
+                                            <x>500780.34</x>
+                                            <y>2191702.58</y>
+                                            <ord_nmb>5</ord_nmb>
+                                        </ordinate>
+                                        <ordinate>
+                                            <x>500777.14</x>
+                                            <y>2191702.03</y>
+                                            <ord_nmb>6</ord_nmb>
+                                        </ordinate>
+                                        <ordinate>
+                                            <x>500776.4</x>
+                                            <y>2191700.96</y>
+                                            <ord_nmb>1</ord_nmb>
+                                        </ordinate>
+                                    </ordinates>
+                                </spatial_element>
+                            </spatials_elements>
+                        </entity_spatial>
+                    </contour>
+                </contours>
+                <area>
+                    <type>
+                        <code>009</code>
+                        <value>Уточненная площадь</value>
+                    </type>
+                    <value>3</value>
+                </area>
+                <content_restrictions>
+                    <reg_numb_border>
+                        <reg_number>50:00-6.568</reg_number>
+                    </reg_numb_border>
+                </content_restrictions>
+            </object_part>
+            <object_part>
+                <part_number>4</part_number>
+                <entry_date>2023-08-24</entry_date>
+                <contours>
+                    <contour>
+                        <entity_spatial>
+                            <spatials_elements>
+                                <spatial_element>
+                                    <ordinates>
+                                        <ordinate>
+                                            <x>500776.89</x>
+                                            <y>2191700.54</y>
+                                            <ord_nmb>1</ord_nmb>
+                                        </ordinate>
+                                        <ordinate>
+                                            <x>500777.56</x>
+                                            <y>2191701.02</y>
+                                            <ord_nmb>2</ord_nmb>
+                                        </ordinate>
+                                        <ordinate>
+                                            <x>500777.98</x>
+                                            <y>2191701.26</y>
+                                            <ord_nmb>3</ord_nmb>
+                                        </ordinate>
+                                        <ordinate>
+                                            <x>500777.32</x>
+                                            <y>2191701.15</y>
+                                            <ord_nmb>4</ord_nmb>
+                                        </ordinate>
+                                        <ordinate>
+                                            <x>500776.89</x>
+                                            <y>2191700.54</y>
+                                            <ord_nmb>5</ord_nmb>
+                                        </ordinate>
+                                    </ordinates>
+                                </spatial_element>
+                            </spatials_elements>
+                        </entity_spatial>
+                    </contour>
+                </contours>
+                <area>
+                    <type>
+                        <code>002</code>
+                        <value>Общая площадь</value>
+                    </type>
+                    <value>0</value>
+                </area>
+                <content_restrictions>
+                    <reg_numb_border>
+                        <reg_number>50:00-6.2128</reg_number>
+                    </reg_numb_border>
+                </content_restrictions>
+            </object_part>
+        </object_parts>
+        <contours_location>
+            <contours>
+                <contour>
+                    <cad_number>50:12:0060110:469</cad_number>
+                    <entity_spatial>
+                        <sk_id>МСК-50, зона 2</sk_id>
+                        <spatials_elements>
+                            <spatial_element>
+                                <ordinates>
+                                    <ordinate>
+                                        <x>500905.1</x>
+                                        <y>2191724.9</y>
+                                        <ord_nmb>1</ord_nmb>
+                                        <num_geopoint>160</num_geopoint>
+                                        <delta_geopoint>0.1</delta_geopoint>
+                                    </ordinate>
+                                    <ordinate>
+                                        <x>500901.4</x>
+                                        <y>2191732.09</y>
+                                        <ord_nmb>2</ord_nmb>
+                                        <num_geopoint>345</num_geopoint>
+                                        <delta_geopoint>0.1</delta_geopoint>
+                                    </ordinate>
+                                    <ordinate>
+                                        <x>500873.87</x>
+                                        <y>2191785.63</y>
+                                        <ord_nmb>3</ord_nmb>
+                                        <num_geopoint>159</num_geopoint>
+                                        <delta_geopoint>0.1</delta_geopoint>
+                                    </ordinate>
+                                    <ordinate>
+                                        <x>500831.34</x>
+                                        <y>2191759.22</y>
+                                        <ord_nmb>4</ord_nmb>
+                                        <num_geopoint>11</num_geopoint>
+                                        <delta_geopoint>0.1</delta_geopoint>
+                                    </ordinate>
+                                    <ordinate>
+                                        <x>500772.33</x>
+                                        <y>2191705.95</y>
+                                        <ord_nmb>5</ord_nmb>
+                                        <num_geopoint>170</num_geopoint>
+                                        <delta_geopoint>0.1</delta_geopoint>
+                                    </ordinate>
+                                    <ordinate>
+                                        <x>500773.82</x>
+                                        <y>2191704.12</y>
+                                        <ord_nmb>6</ord_nmb>
+                                        <num_geopoint>171</num_geopoint>
+                                        <delta_geopoint>0.1</delta_geopoint>
+                                    </ordinate>
+                                    <ordinate>
+                                        <x>500776.8</x>
+                                        <y>2191700.47</y>
+                                        <ord_nmb>7</ord_nmb>
+                                        <num_geopoint>172</num_geopoint>
+                                        <delta_geopoint>0.1</delta_geopoint>
+                                    </ordinate>
+                                    <ordinate>
+                                        <x>500777.56</x>
+                                        <y>2191701.02</y>
+                                        <ord_nmb>8</ord_nmb>
+                                        <num_geopoint>173</num_geopoint>
+                                        <delta_geopoint>0.1</delta_geopoint>
+                                    </ordinate>
+                                    <ordinate>
+                                        <x>500780.02</x>
+                                        <y>2191702.45</y>
+                                        <ord_nmb>9</ord_nmb>
+                                        <num_geopoint>174</num_geopoint>
+                                        <delta_geopoint>0.1</delta_geopoint>
+                                    </ordinate>
+                                    <ordinate>
+                                        <x>500782.77</x>
+                                        <y>2191703.59</y>
+                                        <ord_nmb>10</ord_nmb>
+                                        <num_geopoint>175</num_geopoint>
+                                        <delta_geopoint>0.1</delta_geopoint>
+                                    </ordinate>
+                                    <ordinate>
+                                        <x>500785.37</x>
+                                        <y>2191704.31</y>
+                                        <ord_nmb>11</ord_nmb>
+                                        <num_geopoint>176</num_geopoint>
+                                        <delta_geopoint>0.1</delta_geopoint>
+                                    </ordinate>
+                                    <ordinate>
+                                        <x>500905.1</x>
+                                        <y>2191724.9</y>
+                                        <ord_nmb>1</ord_nmb>
+                                        <num_geopoint>160</num_geopoint>
+                                        <delta_geopoint>0.1</delta_geopoint>
+                                    </ordinate>
+                                </ordinates>
+                            </spatial_element>
+                        </spatials_elements>
+                    </entity_spatial>
+                </contour>
+            </contours>
+            <borders>
+                <border>
+                    <by_definition>
+                        <nmb_contour>1</nmb_contour>
+                        <spatial_element>1</spatial_element>
+                        <point1>1</point1>
+                        <point2>2</point2>
+                    </by_definition>
+                    <direction_angle>117°13.9`</direction_angle>
+                    <horizontal_distance>8.09</horizontal_distance>
+                    <cadastral_numbs_adjacent_parcels>
+                        <cadastral_numb_adjacent_parcel>
+                            <cad_number>50:12:0060110:468</cad_number>
+                        </cadastral_numb_adjacent_parcel>
+                    </cadastral_numbs_adjacent_parcels>
+                </border>
+                <border>
+                    <by_definition>
+                        <nmb_contour>1</nmb_contour>
+                        <spatial_element>1</spatial_element>
+                        <point1>2</point1>
+                        <point2>3</point2>
+                    </by_definition>
+                    <direction_angle>117°12.7`</direction_angle>
+                    <horizontal_distance>60.2</horizontal_distance>
+                    <cadastral_numbs_adjacent_parcels>
+                        <cadastral_numb_adjacent_parcel>
+                            <cad_number>50:12:0060110:468</cad_number>
+                        </cadastral_numb_adjacent_parcel>
+                    </cadastral_numbs_adjacent_parcels>
+                </border>
+                <border>
+                    <by_definition>
+                        <nmb_contour>1</nmb_contour>
+                        <spatial_element>1</spatial_element>
+                        <point1>3</point1>
+                        <point2>4</point2>
+                    </by_definition>
+                    <direction_angle>211°50.3`</direction_angle>
+                    <horizontal_distance>50.06</horizontal_distance>
+                </border>
+                <border>
+                    <by_definition>
+                        <nmb_contour>1</nmb_contour>
+                        <spatial_element>1</spatial_element>
+                        <point1>4</point1>
+                        <point2>5</point2>
+                    </by_definition>
+                    <direction_angle>222°4.4`</direction_angle>
+                    <horizontal_distance>79.5</horizontal_distance>
+                </border>
+                <border>
+                    <by_definition>
+                        <nmb_contour>1</nmb_contour>
+                        <spatial_element>1</spatial_element>
+                        <point1>5</point1>
+                        <point2>6</point2>
+                    </by_definition>
+                    <direction_angle>309°9.2`</direction_angle>
+                    <horizontal_distance>2.36</horizontal_distance>
+                    <cadastral_numbs_adjacent_parcels>
+                        <cadastral_numb_adjacent_parcel>
+                            <cad_number>50:12:0060110:452</cad_number>
+                        </cadastral_numb_adjacent_parcel>
+                    </cadastral_numbs_adjacent_parcels>
+                    <holders_related_lands>
+                        <holder_related_land>
+                            <email>sk.fortuna2004@yandex.ru</email>
+                            <mailing_addess>Московская область, г.Мытищи, ул.Борисовка, д.16А,
+                                кв.180</mailing_addess>
+                        </holder_related_land>
+                    </holders_related_lands>
+                </border>
+                <border>
+                    <by_definition>
+                        <nmb_contour>1</nmb_contour>
+                        <spatial_element>1</spatial_element>
+                        <point1>6</point1>
+                        <point2>7</point2>
+                    </by_definition>
+                    <direction_angle>309°13.8`</direction_angle>
+                    <horizontal_distance>4.71</horizontal_distance>
+                    <cadastral_numbs_adjacent_parcels>
+                        <cadastral_numb_adjacent_parcel>
+                            <cad_number>50:12:0060110:452</cad_number>
+                        </cadastral_numb_adjacent_parcel>
+                    </cadastral_numbs_adjacent_parcels>
+                    <holders_related_lands>
+                        <holder_related_land>
+                            <email>sk.fortuna2004@yandex.ru</email>
+                            <mailing_addess>Московская область, г.Мытищи, ул.Борисовка, д.16А,
+                                кв.180</mailing_addess>
+                        </holder_related_land>
+                    </holders_related_lands>
+                </border>
+                <border>
+                    <by_definition>
+                        <nmb_contour>1</nmb_contour>
+                        <spatial_element>1</spatial_element>
+                        <point1>7</point1>
+                        <point2>8</point2>
+                    </by_definition>
+                    <direction_angle>35°53.6`</direction_angle>
+                    <horizontal_distance>0.94</horizontal_distance>
+                    <cadastral_numbs_adjacent_parcels>
+                        <cadastral_numb_adjacent_parcel>
+                            <cad_number>50:12:0060110:461</cad_number>
+                        </cadastral_numb_adjacent_parcel>
+                        <cadastral_numb_adjacent_parcel>
+                            <cad_number>50:12:0060110:508</cad_number>
+                        </cadastral_numb_adjacent_parcel>
+                    </cadastral_numbs_adjacent_parcels>
+                    <holders_related_lands>
+                        <holder_related_land>
+                            <mailing_addess>141002, Московская обл, г. Мытищи, ул. Шараповская, д.
+                                1, кв. 151</mailing_addess>
+                        </holder_related_land>
+                        <holder_related_land>
+                            <mailing_addess>690109, Приморский край, г. Владивосток, ул. Нейбута, д.
+                                24, кв. 53</mailing_addess>
+                        </holder_related_land>
+                    </holders_related_lands>
+                </border>
+                <border>
+                    <by_definition>
+                        <nmb_contour>1</nmb_contour>
+                        <spatial_element>1</spatial_element>
+                        <point1>8</point1>
+                        <point2>9</point2>
+                    </by_definition>
+                    <direction_angle>30°10.1`</direction_angle>
+                    <horizontal_distance>2.85</horizontal_distance>
+                    <cadastral_numbs_adjacent_parcels>
+                        <cadastral_numb_adjacent_parcel>
+                            <cad_number>50:12:0060110:461</cad_number>
+                        </cadastral_numb_adjacent_parcel>
+                        <cadastral_numb_adjacent_parcel>
+                            <cad_number>50:12:0060110:508</cad_number>
+                        </cadastral_numb_adjacent_parcel>
+                    </cadastral_numbs_adjacent_parcels>
+                    <holders_related_lands>
+                        <holder_related_land>
+                            <mailing_addess>141002, Московская обл, г. Мытищи, ул. Шараповская, д.
+                                1, кв. 151</mailing_addess>
+                        </holder_related_land>
+                        <holder_related_land>
+                            <mailing_addess>690109, Приморский край, г. Владивосток, ул. Нейбута, д.
+                                24, кв. 53</mailing_addess>
+                        </holder_related_land>
+                    </holders_related_lands>
+                </border>
+                <border>
+                    <by_definition>
+                        <nmb_contour>1</nmb_contour>
+                        <spatial_element>1</spatial_element>
+                        <point1>9</point1>
+                        <point2>10</point2>
+                    </by_definition>
+                    <direction_angle>22°31.0`</direction_angle>
+                    <horizontal_distance>2.98</horizontal_distance>
+                    <cadastral_numbs_adjacent_parcels>
+                        <cadastral_numb_adjacent_parcel>
+                            <cad_number>50:12:0060110:461</cad_number>
+                        </cadastral_numb_adjacent_parcel>
+                        <cadastral_numb_adjacent_parcel>
+                            <cad_number>50:12:0060110:508</cad_number>
+                        </cadastral_numb_adjacent_parcel>
+                    </cadastral_numbs_adjacent_parcels>
+                    <holders_related_lands>
+                        <holder_related_land>
+                            <mailing_addess>141002, Московская обл, г. Мытищи, ул. Шараповская, д.
+                                1, кв. 151</mailing_addess>
+                        </holder_related_land>
+                        <holder_related_land>
+                            <mailing_addess>690109, Приморский край, г. Владивосток, ул. Нейбута, д.
+                                24, кв. 53</mailing_addess>
+                        </holder_related_land>
+                    </holders_related_lands>
+                </border>
+                <border>
+                    <by_definition>
+                        <nmb_contour>1</nmb_contour>
+                        <spatial_element>1</spatial_element>
+                        <point1>10</point1>
+                        <point2>11</point2>
+                    </by_definition>
+                    <direction_angle>15°28.7`</direction_angle>
+                    <horizontal_distance>2.7</horizontal_distance>
+                    <cadastral_numbs_adjacent_parcels>
+                        <cadastral_numb_adjacent_parcel>
+                            <cad_number>50:12:0060110:461</cad_number>
+                        </cadastral_numb_adjacent_parcel>
+                        <cadastral_numb_adjacent_parcel>
+                            <cad_number>50:12:0060110:508</cad_number>
+                        </cadastral_numb_adjacent_parcel>
+                    </cadastral_numbs_adjacent_parcels>
+                    <holders_related_lands>
+                        <holder_related_land>
+                            <mailing_addess>141002, Московская обл, г. Мытищи, ул. Шараповская, д.
+                                1, кв. 151</mailing_addess>
+                        </holder_related_land>
+                        <holder_related_land>
+                            <mailing_addess>690109, Приморский край, г. Владивосток, ул. Нейбута, д.
+                                24, кв. 53</mailing_addess>
+                        </holder_related_land>
+                    </holders_related_lands>
+                </border>
+                <border>
+                    <by_definition>
+                        <nmb_contour>1</nmb_contour>
+                        <spatial_element>1</spatial_element>
+                        <point1>11</point1>
+                        <point2>1</point2>
+                    </by_definition>
+                    <direction_angle>9°45.5`</direction_angle>
+                    <horizontal_distance>121.49</horizontal_distance>
+                    <cadastral_numbs_adjacent_parcels>
+                        <cadastral_numb_adjacent_parcel>
+                            <cad_number>50:12:0060110:461</cad_number>
+                        </cadastral_numb_adjacent_parcel>
+                        <cadastral_numb_adjacent_parcel>
+                            <cad_number>50:12:0060110:508</cad_number>
+                        </cadastral_numb_adjacent_parcel>
+                    </cadastral_numbs_adjacent_parcels>
+                    <holders_related_lands>
+                        <holder_related_land>
+                            <mailing_addess>141002, Московская обл, г. Мытищи, ул. Шараповская, д.
+                                1, кв. 151</mailing_addess>
+                        </holder_related_land>
+                        <holder_related_land>
+                            <mailing_addess>690109, Приморский край, г. Владивосток, ул. Нейбута, д.
+                                24, кв. 53</mailing_addess>
+                        </holder_related_land>
+                    </holders_related_lands>
+                </border>
+            </borders>
+        </contours_location>
+        <special_notes>Для данного земельного участка обеспечен доступ посредством земельного
+            участка (земельных участков) с кадастровым номером (кадастровыми номерами):
+            50:12:0060110:461. Сведения об ограничениях права на объект недвижимости, обременениях
+            данного объекта, не зарегистрированных в реестре прав, ограничений прав и обременений
+            недвижимого имущества: Вид ограничения (обременения): Ограничения прав на земельный
+            участок, предусмотренные статьей 56 Земельного кодекса Российской Федерации; срок
+            действия: c 05.08.2021; Реквизиты документа-основания: О порядке установления охранных
+            зон объектов электросетевого хозяйства и особых условий использования земельных
+            участков, расположенных в границах таких зон от 2009-02-24 № 160 выдан: Правительство
+            Российской Федерации; О некоторых вопросах установления охранных зон объектов
+            электросетевого хозяйства от 2013-08-26 № 736 выдан: Правительство Российской Федерации.
+            Вид ограничения (обременения): Ограничения прав на земельный участок, предусмотренные
+            статьей 56 Земельного кодекса Российской Федерации; срок действия: c 05.08.2021;
+            Реквизиты документа-основания: Постановление "О порядке установления охранных зон
+            объектов электросетевого хозяйства и особых условий использования земельных участков,
+            расположенных в границах таких зон" от 2009-02-24 № 160 выдан: Правительство Российской
+            Федерации. Вид ограничения (обременения): Ограничения прав на земельный участок,
+            предусмотренные статьей 56 Земельного кодекса Российской Федерации; срок действия: c
+            24.08.2023; Реквизиты документа-основания: Об установлении публичного сервитута в
+            интересах публичного акционерного общества «Россети Московский регион» на землях и
+            частях земельных участков, расположенных на территории городского округа Солнечногорск,
+            Дмитровского городского округа, городского округа Лобня, городского округа Мытищи
+            Московской области, в целях размещения существующего объекта электросетевого хозяйства
+            ВЛ 110 кВ «Шереметьево-Жостово с отп. на ПС Аксаково» от 2022-12-09 № 15ВР-2513 выдан:
+            Министерство имущественных отношений Московской области.</special_notes>
+        <restrictions_encumbrances>
+            <restriction_encumbrance>
+                <encumbrance_type>
+                    <code>022004000000</code>
+                    <value>Ограничения прав на земельный участок, предусмотренные статьей 56
+                        Земельного кодекса Российской Федерации</value>
+                </encumbrance_type>
+                <cad_link>
+                    <reg_number_border>
+                        <number>50:00-6.1474</number>
+                        <name_by_doc>Охранная зона КВЛ 110 кВ Шереметьево-Жостово с отпайкой на ПС
+                            Аксаково</name_by_doc>
+                        <type_zone>
+                            <code>218020020006</code>
+                            <value>Охранная зона инженерных коммуникаций</value>
+                        </type_zone>
+                    </reg_number_border>
+                </cad_link>
+                <content_restrict_encumbrances>1. В охранных зонах запрещается осуществлять любые
+                    действия, которые могут нарушить безопасную работу объектов электросетевого
+                    хозяйства, в том числе привести к их повреждению или уничтожению, и (или)
+                    повлечь причинение вреда жизни, здоровью граждан и имуществу физических или
+                    юридических лиц, а также повлечь нанесение экологического ущерба и возникновение
+                    пожаров, в том числе: а) набрасывать на провода и опоры воздушных линий
+                    электропередачи посторонние предметы, а также подниматься на опоры воздушных
+                    линий электропередачи; б) размещать любые объекты и предметы (материалы) в
+                    пределах созданных в соответствии с требованиями нормативно-технических
+                    документов проходов и подъездов для доступа к объектам электросетевого
+                    хозяйства, а также проводить любые работы и возводить сооружения, которые могут
+                    препятствовать доступу к объектам электросетевого хозяйства, без создания
+                    необходимых для такого доступа проходов и подъездов; в) находиться в пределах
+                    огороженной территории и помещениях распределительных устройств и подстанций,
+                    открывать двери и люки распределительных устройств и подстанций, производить
+                    переключения и подключения в электрических сетях (указанное требование не
+                    распространяется на работников, занятых выполнением разрешенных в установленном
+                    порядке работ), разводить огонь в пределах охранных зон вводных и
+                    распределительных устройств, подстанций, воздушных линий электропередачи, а
+                    также в охранных зонах кабельных линий электропередачи; г) размещать свалки; д)
+                    производить работы ударными механизмами, сбрасывать тяжести массой свыше 5 тонн,
+                    производить сброс и слив едких и коррозионных веществ и горюче-смазочных
+                    материалов (в охранных зонах подземных кабельных линий электропередачи). 2. В
+                    охранных зонах, установленных для объектов электросетевого хозяйства напряжением
+                    свыше 1000 вольт, помимо действий, предусмотренных пунктом 8 настоящих Правил,
+                    запрещается: а) складировать или размещать хранилища любых, в том числе
+                    горюче-смазочных, материалов; б) размещать детские и спортивные площадки,
+                    стадионы, рынки, торговые точки, полевые станы, загоны для скота, гаражи и
+                    стоянки всех видов машин и механизмов, проводить любые мероприятия, связанные с
+                    большим скоплением людей, не занятых выполнением разрешенных в установленном
+                    порядке работ (в охранных зонах воздушных линий электропередачи); в)
+                    использовать (запускать) любые летательные аппараты, в том числе воздушных
+                    змеев, спортивные модели летательных аппаратов (в охранных зонах воздушных линий
+                    электропередачи); г) бросать якоря с судов и осуществлять их проход с отданными
+                    якорями, цепями, лотами, волокушами и тралами (в охранных зонах подводных
+                    кабельных линий электропередачи); д) осуществлять проход судов с поднятыми
+                    стрелами кранов и других механизмов (в охранных зонах воздушных линий
+                    электропередачи). 3. В пределах охранных зон без письменного решения о
+                    согласовании сетевых организаций юридическим и физическим лицам запрещаются: а)
+                    строительство, капитальный ремонт, реконструкция или снос зданий и сооружений;
+                    б) горные, взрывные, мелиоративные работы, в том числе связанные с временным
+                    затоплением земель; в) посадка и вырубка деревьев и кустарников; г)
+                    дноуглубительные, землечерпальные и погрузочно-разгрузочные работы, добыча рыбы,
+                    других водных животных и растений придонными орудиями лова, устройство водопоев,
+                    колка и заготовка льда (в охранных зонах подводных кабельных линий
+                    электропередачи); д) проход судов, у которых расстояние по вертикали от верхнего
+                    крайнего габарита с грузом или без груза до нижней точки провеса проводов
+                    переходов воздушных линий электропередачи через водоемы менее минимально
+                    допустимого расстояния, в том числе с учетом максимального уровня подъема воды
+                    при паводке; е) проезд машин и механизмов, имеющих общую высоту с грузом или без
+                    груза от поверхности дороги более 4,5 метра (в охранных зонах воздушных линий
+                    электропередачи); ж) земляные работы на глубине более 0,3 метра (на вспахиваемых
+                    землях на глубине более 0,45 метра), а также планировка грунта (в охранных зонах
+                    подземных кабельных линий электропередачи); з) полив сельскохозяйственных
+                    культур в случае, если высота струи воды может составить свыше 3 метров (в
+                    охранных зонах воздушных линий электропередачи); и) полевые сельскохозяйственные
+                    работы с применением сельскохозяйственных машин и оборудования высотой более 4
+                    метров (в охранных зонах воздушных линий электропередачи) или полевые
+                    сельскохозяйственные работы, связанные с вспашкой земли (в охранных зонах
+                    кабельных линий электропередачи).</content_restrict_encumbrances>
+                <underlying_docs>
+                    <underlying_document>
+                        <document_code>
+                            <code>558401020300</code>
+                            <value>Постановление Правительства Российской Федерации</value>
+                        </document_code>
+                        <document_name>О порядке установления охранных зон объектов электросетевого
+                            хозяйства и особых условий использования земельных участков,
+                            расположенных в границах таких зон</document_name>
+                        <document_number>160</document_number>
+                        <document_date>2009-02-24</document_date>
+                        <document_issuer>Правительство Российской Федерации</document_issuer>
+                    </underlying_document>
+                    <underlying_document>
+                        <document_code>
+                            <code>558401020300</code>
+                            <value>Постановление Правительства Российской Федерации</value>
+                        </document_code>
+                        <document_name>О некоторых вопросах установления охранных зон объектов
+                            электросетевого хозяйства</document_name>
+                        <document_number>736</document_number>
+                        <document_date>2013-08-26</document_date>
+                        <document_issuer>Правительство Российской Федерации</document_issuer>
+                    </underlying_document>
+                </underlying_docs>
+                <starting_date>2021-08-05</starting_date>
+            </restriction_encumbrance>
+            <restriction_encumbrance>
+                <encumbrance_type>
+                    <code>022004000000</code>
+                    <value>Ограничения прав на земельный участок, предусмотренные статьей 56
+                        Земельного кодекса Российской Федерации</value>
+                </encumbrance_type>
+                <cad_link>
+                    <reg_number_border>
+                        <number>50:00-6.568</number>
+                        <name_by_doc>Охранная зона ЛЭП 110 кВ "Долгопрудная-Шереметьево" с отпайкой
+                            на ПС "Аксаково"</name_by_doc>
+                        <type_zone>
+                            <code>218020020006</code>
+                            <value>Охранная зона инженерных коммуникаций</value>
+                        </type_zone>
+                    </reg_number_border>
+                </cad_link>
+                <content_restrict_encumbrances>Ограничение использования объектов недвижимости в
+                    границах зоны: 10. В пределах охранных зон без письменного решения о
+                    согласовании сетевых организаций юридическим и физическим лицам запрещаются: а)
+                    строительство, капитальный ремонт, реконструкция или снос зданий и сооружений;
+                    б) горные, взрывные, мелиоративные работы, в том числе связанные с временным
+                    затоплением земель; в) посадка и вырубка деревьев и кустарников; г)
+                    дноуглубительные, землечерпальные и погрузочно-разгрузочные работы, добыча рыбы,
+                    других водных животных и растений придонными орудиями лова, устройство водопоев,
+                    колка и заготовка льда (в охранных зонах подводных кабельных линий
+                    электропередачи); д) проход судов, у которых расстояние по вертикали от верхнего
+                    крайнего габарита с грузом или без груза до нижней точки провеса проводов
+                    переходов воздушных линий электропередачи через водоемы менее минимально
+                    допустимого расстояния, в том числе с учетом максимального уровня подъема воды
+                    при паводке; е) проезд машин и механизмов, имеющих общую высоту с грузом или без
+                    груза от поверхности дороги более 4,5 метра (в охранных зонах воздушных линий
+                    электропередачи); ж) земляные работы на глубине более 0,3 метра (на вспахиваемых
+                    землях на глубине более 0,45 метра), а также планировка грунта (в охранных зонах
+                    подземных кабельных линий электропередачи); з) полив сельскохозяйственных
+                    культур в случае, если высота струи воды может составить свыше 3 метров (в
+                    охранных зонах воздушных линий электропередачи); и) полевые сельскохозяйственные
+                    работы с применением сельскохозяйственных машин и оборудования высотой более 4
+                    метров (в охранных зонах воздушных линий электропередачи) или полевые
+                    сельскохозяйственные работы, связанные с вспашкой земли (в охранных зонах
+                    кабельных линий электропередачи). 11. В охранных зонах, установленных для
+                    объектов электросетевого хозяйства напряжением до 1000 вольт, помимо действий,
+                    предусмотренных пунктом 10 настоящих Правил, без письменного решения о
+                    согласовании сетевых организаций запрещается: а) размещать детские и спортивные
+                    площадки, стадионы, рынки, торговые точки, полевые станы, загоны для скота,
+                    гаражи и стоянки всех видов машин и механизмов (в охранных зонах воздушных линий
+                    электропередачи); б) складировать или размещать хранилища любых, в том числе
+                    горюче-смазочных, материалов; в) устраивать причалы для стоянки судов, барж и
+                    плавучих кранов, бросать якоря с судов и осуществлять их проход с отданными
+                    якорями, цепями, лотами, волокушами и тралами (в охранных зонах подводных
+                    кабельных линий электропередачи). (Постановление Правительства РФ № 160 от
+                    24.02.2009 г. "О порядке установления охранных зон объектов электросетевого
+                    хозяйства и особых условий использования земельных участков, расположенных в
+                    границах таких зон" п.п. 10, 11)</content_restrict_encumbrances>
+                <underlying_docs>
+                    <underlying_document>
+                        <document_code>
+                            <code>558401020000</code>
+                            <value>Акты органов государственной власти или органов местного
+                                самоуправления</value>
+                        </document_code>
+                        <document_name>Постановление "О порядке установления охранных зон объектов
+                            электросетевого хозяйства и особых условий использования земельных
+                            участков, расположенных в границах таких зон"</document_name>
+                        <document_number>160</document_number>
+                        <document_date>2009-02-24</document_date>
+                        <document_issuer>Правительство Российской Федерации</document_issuer>
+                    </underlying_document>
+                </underlying_docs>
+                <starting_date>2021-08-05</starting_date>
+            </restriction_encumbrance>
+            <restriction_encumbrance>
+                <encumbrance_type>
+                    <code>022004000000</code>
+                    <value>Ограничения прав на земельный участок, предусмотренные статьей 56
+                        Земельного кодекса Российской Федерации</value>
+                </encumbrance_type>
+                <part_number>4</part_number>
+                <cad_link>
+                    <reg_number_border>
+                        <number>50:00-6.2128</number>
+                        <name_by_doc>Публичный сервитут в целях размещения существующего объекта
+                            электросетевого хозяйства ВЛ 110 кВ «Шереметьево-Жостово с отп. на ПС
+                            Аксаково»</name_by_doc>
+                        <type_zone>
+                            <code>218020040001</code>
+                            <value>Зона публичного сервитута</value>
+                        </type_zone>
+                        <index>Московская область, городской округ Солнечногорск, Дмитровский
+                            городской округ, городской округ Лобня, городской округ Мытищи</index>
+                    </reg_number_border>
+                </cad_link>
+                <content_restrict_encumbrances>Публичный сервитут в целях размещения существующего
+                    объекта электросетевого хозяйства ВЛ 110 кВ «Шереметьево-Жостово с отп. на ПС
+                    Аксаково». Срок публичного сервитута: в соответствии с п.8 ст.39.43 ЗК РФ
+                    публичный сервитут считается установленным со дня внесения сведений о нем в
+                    Единый государственный реестр недвижимости, согласно Распоряжению Министерства
+                    имущественных отношений Московской области от 09.12.2022 №15ВР-2513 срок
+                    публичного сервитута составляет 49 лет. Обладатель публичного сервитута:
+                    Публичное акционерное общество «Россети Московский регион», ИНН 5036065113, ОГРН
+                    1057746555811. Почтовый адрес Публичного акционерного общества «Россети
+                    Московский регион»: 115114, г. Москва, 2-й Павелецкий пр., д. 3, стр. 2, адрес
+                    электронной почты: client@rossetimr.ru.</content_restrict_encumbrances>
+                <underlying_docs>
+                    <underlying_document>
+                        <document_code>
+                            <code>558401029900</code>
+                            <value>Иные акты органов государственной власти или органов местного
+                                самоуправления</value>
+                        </document_code>
+                        <document_name>Об установлении публичного сервитута в интересах публичного
+                            акционерного общества «Россети Московский регион» на землях и частях
+                            земельных участков, расположенных на территории городского округа
+                            Солнечногорск, Дмитровского городского округа, городского округа Лобня,
+                            городского округа Мытищи Московской области, в целях размещения
+                            существующего объекта электросетевого хозяйства ВЛ 110 кВ
+                            «Шереметьево-Жостово с отп. на ПС Аксаково»</document_name>
+                        <document_number>15ВР-2513</document_number>
+                        <document_date>2022-12-09</document_date>
+                        <document_issuer>Министерство имущественных отношений Московской области</document_issuer>
+                    </underlying_document>
+                </underlying_docs>
+                <starting_date>2023-08-24</starting_date>
+            </restriction_encumbrance>
+        </restrictions_encumbrances>
+    </land_record>
+    <right_records>
+        <right_record>
+            <record_info>
+                <registration_date>2023-07-10T17:20:39+03:00</registration_date>
+            </record_info>
+            <right_data>
+                <right_type>
+                    <code>001001000000</code>
+                    <value>Собственность</value>
+                </right_type>
+                <right_number>50:12:0060110:469-50/215/2023-3</right_number>
+            </right_data>
+            <right_holders>
+                <right_holder>
+                    <individual>
+                        <name>Физическое лицо</name>
+                    </individual>
+                </right_holder>
+            </right_holders>
+            <personal_participations>
+                <personal_participation>
+                    <inability_info>
+                        <origin_content>Принято заявление о невозможности государственной
+                            регистрации перехода, прекращения, ограничения права и обременения на
+                            объект недвижимости без личного участия правообладателя или его
+                            законного представителя.</origin_content>
+                    </inability_info>
+                </personal_participation>
+            </personal_participations>
+        </right_record>
+    </right_records>
+    <recipient_statement>Болдырев Максим Павлович</recipient_statement>
+    <status>Сведения об объекте недвижимости имеют статус "актуальные"</status>
+</extract_about_property_land>

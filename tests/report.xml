@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extract_about_property_land>
+    <details_statement>
+        <group_top_requisites>
+            <organ_registr_rights>Филиал публично-правовой компании "Роскадастр" по Московской
+                области</organ_registr_rights>
+            <date_formation>2023-10-19</date_formation>
+            <registration_number>КУВИ-001/2023-238356975</registration_number>
+        </group_top_requisites>
+    </details_statement>
+    <details_request>
+        <date_received_request>2023-10-19</date_received_request>
+        <date_receipt_request_reg_authority_rights>2023-10-19</date_receipt_request_reg_authority_rights>
+    </details_request>
+    <land_record>
+        <record_info>
+            <registration_date>2023-07-17T12:46:42+00:00</registration_date>
+        </record_info>
+        <object>
+            <common_data>
+                <cad_number>50:12:0060110:535</cad_number>
+                <quarter_cad_number>50:12:0060110</quarter_cad_number>
+                <type>
+                    <code>002001001000</code>
+                    <value>Земельный участок</value>
+                </type>
+            </common_data>
+            <subtype>
+                <code>01</code>
+                <value>Землепользование</value>
+            </subtype>
+        </object>
+        <cad_links>
+            <ascendant_cad_numbers>
+                <ascendant_cad_number>
+                    <cad_number>50:12:0060110:120</cad_number>
+                </ascendant_cad_number>
+            </ascendant_cad_numbers>
+        </cad_links>
+        <params>
+            <category>
+                <type>
+                    <code>003003000000</code>
+                    <value>Земли промышленности, энергетики, транспорта, связи, радиовещания,
+                        телевидения, информатики, земли для обеспечения космической деятельности,
+                        земли обороны, безопасности и земли иного специального назначения</value>
+                </type>
+            </category>
+            <permitted_use>
+                <permitted_use_established>
+                    <by_document>Для строительства многофункционального торгового и
+                        спортивно-развлекательного комплекса</by_document>
+                </permitted_use_established>
+            </permitted_use>
+            <area>
+                <type>
+                    <code>009</code>
+                    <value>Уточненная площадь</value>
+                </type>
+                <value>510</value>
+                <inaccuracy>8</inaccuracy>
+            </area>
+        </params>
+        <address_location>
+            <address>
+                <readable_address>141000, Московская область, г Мытищи, д Шолохово, г.о.Мытищи</readable_address>
+            </address>
+        </address_location>
+        <cad_works>
+            <cad_work>
+                <work_type>образованием 2 земельных участков путем раздела земельного участка с
+                    кадастровым номером 50:12:0060110:120</work_type>
+                <fio_cad_ingineer>
+                    <surname>Филиппов</surname>
+                    <name>Александр</name>
+                    <patronymic>Михайлович</patronymic>
+                </fio_cad_ingineer>
+            </cad_work>
+        </cad_works>
+        <zones_and_boundaries>
+            <special_use_boundaries>
+                <special_use_boundary>
+                    <reg_numb_border>50:12-6.326</reg_numb_border>
+                </special_use_boundary>
+                <special_use_boundary>
+                    <reg_numb_border>50:00-6.138</reg_numb_border>
+                </special_use_boundary>
+            </special_use_boundaries>
+        </zones_and_boundaries>
+        <cost>
+            <value>1847724.9</value>
+        </cost>
+        <object_parts>
+            <object_part>
+                <part_number>1</part_number>
+                <mnemonic>50:00-6.138-ЧЗУ1</mnemonic>
+                <entry_date>2023-07-17</entry_date>
+                <contours>
+                    <contour>
+                        <number_pp>1</number_pp>
+                        <area>
+                            <type>
+                                <code>009</code>
+                                <value>Уточненная площадь</value>
+                            </type>
+                            <value>481.57</value>
+                        </area>
+                        <entity_spatial>
+                            <spatials_elements>
+                                <spatial_element>
+                                    <ordinates>
+                                        <ordinate>
+                                            <x>500856.5</x>
+                                            <y>2191453.63</y>
+                                            <ord_nmb>1</ord_nmb>
+                                        </ordinate>
+                                        <ordinate>
+                                            <x>500858.07</x>
+                                            <y>2191457.94</y>
+                                            <ord_nmb>2</ord_nmb>
+                                        </ordinate>
+                                        <ordinate>
+                                            <x>500855.87</x>
+                                            <y>2191459.81</y>
+                                            <ord_nmb>3</ord_nmb>
+                                        </ordinate>
+                                        <ordinate>
+                                            <x>500862.02</x>
+                                            <y>2191498.28</y>
+                                            <ord_nmb>4</ord_nmb>
+                                        </ordinate>
+                                        <ordinate>
+                                            <x>500861.83</x>
+                                            <y>2191501.32</y>
+                                            <ord_nmb>5</ord_nmb>
+                                        </ordinate>
+                                        <ordinate>
+                                            <x>500862.41</x>
+                                            <y>2191504.96</y>
+                                            <ord_nmb>6</ord_nmb>
+                                        </ordinate>
+                                        <ordinate>
+                                            <x>500854.43</x>
+                                            <y>2191506.95</y>
+                                            <ord_nmb>7</ord_nmb>
+                                        </ordinate>
+                                        <ordinate>
+                                            <x>500845.65</x>
+                                            <y>2191455.53</y>
+                                            <ord_nmb>8</ord_nmb>
+                                        </ordinate>
+                                        <ordinate>
+                                            <x>500856.5</x>
+                                            <y>2191453.63</y>
+                                            <ord_nmb>1</ord_nmb>
+                                        </ordinate>
+                                    </ordinates>
+                                </spatial_element>
+                            </spatials_elements>
+                        </entity_spatial>
+                    </contour>
+                </contours>
+                <area>
+                    <type>
+                        <code>009</code>
+                        <value>Уточненная площадь</value>
+                    </type>
+                    <value>482</value>
+                </area>
+                <content_restrictions>
+                    <reg_numb_border>
+                        <reg_number>50:00-6.138</reg_number>
+                    </reg_numb_border>
+                </content_restrictions>
+            </object_part>
+        </object_parts>
+        <contours_location>
+            <contours>
+                <contour>
+                    <cad_number>50:12:0060110:535</cad_number>
+                    <entity_spatial>
+                        <sk_id>МСК-50</sk_id>
+                        <spatials_elements>
+                            <spatial_element>
+                                <ordinates>
+                                    <ordinate>
+                                        <x>500856.5</x>
+                                        <y>2191453.63</y>
+                                        <ord_nmb>1</ord_nmb>
+                                        <num_geopoint>1</num_geopoint>
+                                        <delta_geopoint>0.1</delta_geopoint>
+                                    </ordinate>
+                                    <ordinate>
+                                        <x>500858.07</x>
+                                        <y>2191457.94</y>
+                                        <ord_nmb>2</ord_nmb>
+                                        <num_geopoint>2</num_geopoint>
+                                        <delta_geopoint>0.1</delta_geopoint>
+                                    </ordinate>
+                                    <ordinate>
+                                        <x>500855.87</x>
+                                        <y>2191459.81</y>
+                                        <ord_nmb>3</ord_nmb>
+                                        <num_geopoint>3</num_geopoint>
+                                        <delta_geopoint>0.1</delta_geopoint>
+                                    </ordinate>
+                                    <ordinate>
+                                        <x>500862.02</x>
+                                        <y>2191498.28</y>
+                                        <ord_nmb>4</ord_nmb>
+                                        <num_geopoint>4</num_geopoint>
+                                        <delta_geopoint>0.1</delta_geopoint>
+                                    </ordinate>
+                                    <ordinate>
+                                        <x>500861.83</x>
+                                        <y>2191501.32</y>
+                                        <ord_nmb>5</ord_nmb>
+                                        <num_geopoint>5</num_geopoint>
+                                        <delta_geopoint>0.1</delta_geopoint>
+                                    </ordinate>
+                                    <ordinate>
+                                        <x>500862.41</x>
+                                        <y>2191504.96</y>
+                                        <ord_nmb>6</ord_nmb>
+                                        <num_geopoint>6</num_geopoint>
+                                        <delta_geopoint>0.1</delta_geopoint>
+                                    </ordinate>
+                                    <ordinate>
+                                        <x>500863.32</x>
+                                        <y>2191510.48</y>
+                                        <ord_nmb>7</ord_nmb>
+                                        <num_geopoint>7</num_geopoint>
+                                        <delta_geopoint>0.1</delta_geopoint>
+                                    </ordinate>
+                                    <ordinate>
+                                        <x>500854.64</x>
+                                        <y>2191508.18</y>
+                                        <ord_nmb>8</ord_nmb>
+                                        <num_geopoint>8</num_geopoint>
+                                        <delta_geopoint>0.1</delta_geopoint>
+                                    </ordinate>
+                                    <ordinate>
+                                        <x>500845.65</x>
+                                        <y>2191455.53</y>
+                                        <ord_nmb>9</ord_nmb>
+                                        <num_geopoint>9</num_geopoint>
+                                        <delta_geopoint>0.1</delta_geopoint>
+                                    </ordinate>
+                                    <ordinate>
+                                        <x>500856.5</x>
+                                        <y>2191453.63</y>
+                                        <ord_nmb>1</ord_nmb>
+                                        <num_geopoint>1</num_geopoint>
+                                        <delta_geopoint>0.1</delta_geopoint>
+                                    </ordinate>
+                                </ordinates>
+                            </spatial_element>
+                        </spatials_elements>
+                    </entity_spatial>
+                </contour>
+            </contours>
+            <borders>
+                <border>
+                    <by_definition>
+                        <nmb_contour>1</nmb_contour>
+                        <spatial_element>1</spatial_element>
+                        <point1>1</point1>
+                        <point2>2</point2>
+                    </by_definition>
+                    <direction_angle>69°59.1`</direction_angle>
+                    <horizontal_distance>4.59</horizontal_distance>
+                    <cadastral_numbs_adjacent_parcels>
+                        <cadastral_numb_adjacent_parcel>
+                            <cad_number>50:12:0060110:119</cad_number>
+                        </cadastral_numb_adjacent_parcel>
+                    </cadastral_numbs_adjacent_parcels>
+                </border>
+                <border>
+                    <by_definition>
+                        <nmb_contour>1</nmb_contour>
+                        <spatial_element>1</spatial_element>
+                        <point1>1</point1>
+                        <point2>1</point2>
+                    </by_definition>
+                    <cadastral_numbs_adjacent_parcels>
+                        <cadastral_numb_adjacent_parcel>
+                            <cad_number>50:12:0060110:523</cad_number>
+                        </cadastral_numb_adjacent_parcel>
+                        <cadastral_numb_adjacent_parcel>
+                            <cad_number>50:12:0060110:4</cad_number>
+                        </cadastral_numb_adjacent_parcel>
+                    </cadastral_numbs_adjacent_parcels>
+                </border>
+                <border>
+                    <by_definition>
+                        <nmb_contour>1</nmb_contour>
+                        <spatial_element>1</spatial_element>
+                        <point1>2</point1>
+                        <point2>3</point2>
+                    </by_definition>
+                    <direction_angle>139°38.1`</direction_angle>
+                    <horizontal_distance>2.89</horizontal_distance>
+                    <cadastral_numbs_adjacent_parcels>
+                        <cadastral_numb_adjacent_parcel>
+                            <cad_number>50:12:0060110:119</cad_number>
+                        </cadastral_numb_adjacent_parcel>
+                    </cadastral_numbs_adjacent_parcels>
+                </border>
+                <border>
+                    <by_definition>
+                        <nmb_contour>1</nmb_contour>
+                        <spatial_element>1</spatial_element>
+                        <point1>3</point1>
+                        <point2>4</point2>
+                    </by_definition>
+                    <direction_angle>80°55.0`</direction_angle>
+                    <horizontal_distance>38.96</horizontal_distance>
+                    <cadastral_numbs_adjacent_parcels>
+                        <cadastral_numb_adjacent_parcel>
+                            <cad_number>50:12:0060110:119</cad_number>
+                        </cadastral_numb_adjacent_parcel>
+                    </cadastral_numbs_adjacent_parcels>
+                </border>
+                <border>
+                    <by_definition>
+                        <nmb_contour>1</nmb_contour>
+                        <spatial_element>1</spatial_element>
+                        <point1>4</point1>
+                        <point2>5</point2>
+                    </by_definition>
+                    <direction_angle>93°34.6`</direction_angle>
+                    <horizontal_distance>3.05</horizontal_distance>
+                    <cadastral_numbs_adjacent_parcels>
+                        <cadastral_numb_adjacent_parcel>
+                            <cad_number>50:12:0060110:119</cad_number>
+                        </cadastral_numb_adjacent_parcel>
+                    </cadastral_numbs_adjacent_parcels>
+                </border>
+                <border>
+                    <by_definition>
+                        <nmb_contour>1</nmb_contour>
+                        <spatial_element>1</spatial_element>
+                        <point1>5</point1>
+                        <point2>6</point2>
+                    </by_definition>
+                    <direction_angle>80°56.8`</direction_angle>
+                    <horizontal_distance>3.69</horizontal_distance>
+                    <cadastral_numbs_adjacent_parcels>
+                        <cadastral_numb_adjacent_parcel>
+                            <cad_number>50:12:0060110:119</cad_number>
+                        </cadastral_numb_adjacent_parcel>
+                    </cadastral_numbs_adjacent_parcels>
+                </border>
+                <border>
+                    <by_definition>
+                        <nmb_contour>1</nmb_contour>
+                        <spatial_element>1</spatial_element>
+                        <point1>6</point1>
+                        <point2>7</point2>
+                    </by_definition>
+                    <direction_angle>80°38.3`</direction_angle>
+                    <horizontal_distance>5.59</horizontal_distance>
+                    <cadastral_numbs_adjacent_parcels>
+                        <cadastral_numb_adjacent_parcel>
+                            <cad_number>50:12:0060110:119</cad_number>
+                        </cadastral_numb_adjacent_parcel>
+                    </cadastral_numbs_adjacent_parcels>
+                </border>
+                <border>
+                    <by_definition>
+                        <nmb_contour>1</nmb_contour>
+                        <spatial_element>1</spatial_element>
+                        <point1>7</point1>
+                        <point2>8</point2>
+                    </by_definition>
+                    <direction_angle>194°50.5`</direction_angle>
+                    <horizontal_distance>8.98</horizontal_distance>
+                    <cadastral_numbs_adjacent_parcels>
+                        <cadastral_numb_adjacent_parcel>
+                            <cad_number>50:12:0060110:536</cad_number>
+                        </cadastral_numb_adjacent_parcel>
+                    </cadastral_numbs_adjacent_parcels>
+                </border>
+                <border>
+                    <by_definition>
+                        <nmb_contour>1</nmb_contour>
+                        <spatial_element>1</spatial_element>
+                        <point1>8</point1>
+                        <point2>9</point2>
+                    </by_definition>
+                    <direction_angle>260°18.6`</direction_angle>
+                    <horizontal_distance>53.41</horizontal_distance>
+                    <cadastral_numbs_adjacent_parcels>
+                        <cadastral_numb_adjacent_parcel>
+                            <cad_number>50:12:0060110:530</cad_number>
+                        </cadastral_numb_adjacent_parcel>
+                    </cadastral_numbs_adjacent_parcels>
+                </border>
+                <border>
+                    <by_definition>
+                        <nmb_contour>1</nmb_contour>
+                        <spatial_element>1</spatial_element>
+                        <point1>9</point1>
+                        <point2>1</point2>
+                    </by_definition>
+                    <direction_angle>350°4.0`</direction_angle>
+                    <horizontal_distance>11.02</horizontal_distance>
+                    <cadastral_numbs_adjacent_parcels>
+                        <cadastral_numb_adjacent_parcel>
+                            <cad_number>50:12:0060110:487</cad_number>
+                        </cadastral_numb_adjacent_parcel>
+                    </cadastral_numbs_adjacent_parcels>
+                </border>
+            </borders>
+        </contours_location>
+        <special_notes>Для данного земельного участка обеспечен доступ посредством земельного
+            участка (земельных участков) с кадастровым номером (кадастровыми номерами):
+            50:12:0060110:491. Сведения об ограничениях права на объект недвижимости, обременениях
+            данного объекта, не зарегистрированных в реестре прав, ограничений прав и обременений
+            недвижимого имущества: Вид ограничения (обременения): Ограничения прав на земельный
+            участок, предусмотренные статьей 56 Земельного кодекса Российской Федерации; срок
+            действия: c 17.07.2023; Реквизиты документа-основания: Решение об установлении
+            санитарно-защитной зоны от 2020-03-18 № 118 выдан: Управление Роспотребнадзора по
+            Московской области. Вид ограничения (обременения): Ограничения прав на земельный
+            участок, предусмотренные статьей 56 Земельного кодекса Российской Федерации; срок
+            действия: c 17.07.2023; Реквизиты документа-основания: Распоряжение Федерального
+            дорожного агентства (Росавтодор) от 2013-10-14 № 1601-р выдан: Федеральное дорожное
+            агентство (Росавтодор).</special_notes>
+        <restrictions_encumbrances>
+            <restriction_encumbrance>
+                <encumbrance_type>
+                    <code>022004000000</code>
+                    <value>Ограничения прав на земельный участок, предусмотренные статьей 56
+                        Земельного кодекса Российской Федерации</value>
+                </encumbrance_type>
+                <cad_link>
+                    <reg_number_border>
+                        <number>50:12-6.326</number>
+                        <name_by_doc>Санитарно-защитная зона действующей площадки МJ065 АЗК
+                            «Шолохово» АО «РН-Москва» расположенной по адресу: Московская область,
+                            Мытищинский р-н, 35-й км Дмитровского шоссе (справа), д. Шолохово, д.2
+                            (кадастровый номер 50:12:0060110:4)</name_by_doc>
+                        <type_zone>
+                            <code>218020030005</code>
+                            <value>Санитарно-защитная зона предприятий, сооружений и иных объектов</value>
+                        </type_zone>
+                    </reg_number_border>
+                </cad_link>
+                <content_restrict_encumbrances>Согласно п. 5 Постановления Правительства РФ от 3
+                    марта 2018 г. № 222 "Об утверждении Правил установления санитарно-защитных зон и
+                    использования земельных участков, расположенных в границах санитарно-защитных
+                    зон (с изменениями и дополнениями)" в границах санитарно-защитной зоны не
+                    допускается использования земельных участков в целях: а) размещения жилой
+                    застройки, объектов образовательного и медицинского назначения, спортивных
+                    сооружений открытого типа, организаций отдыха детей и их оздоровления, зон
+                    рекреационного назначения и для ведения садоводства; б) размещения объектов для
+                    производства и хранения лекарственных средств, объектов пищевых отраслей
+                    промышленности, оптовых складов продовольственного сырья и пищевой продукции,
+                    комплексов водопроводных сооружений для подготовки и хранения питьевой воды,
+                    использования земельных участков в целях производства, хранения и переработки
+                    сельскохозяйственной продукции, предназначенной для дальнейшего использования в
+                    качестве пищевой продукции.</content_restrict_encumbrances>
+                <underlying_docs>
+                    <underlying_document>
+                        <document_code>
+                            <code>558401020000</code>
+                            <value>Акты органов государственной власти или органов местного
+                                самоуправления</value>
+                        </document_code>
+                        <document_name>Решение об установлении санитарно-защитной зоны</document_name>
+                        <document_number>118</document_number>
+                        <document_date>2020-03-18</document_date>
+                        <document_issuer>Управление Роспотребнадзора по Московской области</document_issuer>
+                    </underlying_document>
+                </underlying_docs>
+                <starting_date>2023-07-17</starting_date>
+            </restriction_encumbrance>
+            <restriction_encumbrance>
+                <encumbrance_type>
+                    <code>022004000000</code>
+                    <value>Ограничения прав на земельный участок, предусмотренные статьей 56
+                        Земельного кодекса Российской Федерации</value>
+                </encumbrance_type>
+                <cad_link>
+                    <reg_number_border>
+                        <number>50:00-6.138</number>
+                        <name_by_doc>Придорожная полоса автомобильной дороги общего пользования
+                            федерального значения. А-104 "Москва-Дмитров-Дубна" на участке км 23+500
+                            - км 46+300</name_by_doc>
+                        <type_zone>
+                            <code>218020020008</code>
+                            <value>Придорожная полоса</value>
+                        </type_zone>
+                    </reg_number_border>
+                </cad_link>
+                <content_restrict_encumbrances>Ограничения установлены п. 8 и 8.1 статьи 26 ФЗ 257
+                    «Об автомобильных дорогах и дорожной деятельности в РФ»: «8. Строительство,
+                    реконструкция в границах придорожных полос автомобильной дороги объектов
+                    капитального строительства, объектов, предназначенных для осуществления дорожной
+                    деятельности, объектов дорожного сервиса, установка рекламных конструкций,
+                    информационных щитов и указателей допускаются при наличии согласия в письменной
+                    форме владельца автомобильной дороги. Это согласие должно содержать технические
+                    требования и условия, подлежащие обязательному исполнению лицами,
+                    осуществляющими строительство, реконструкцию в границах придорожных полос
+                    автомобильной дороги таких объектов, установку рекламных конструкций,
+                    информационных щитов и указателей (далее в настоящей статье - технические
+                    требования и условия, подлежащие обязательному исполнению). 8.1. Лица,
+                    осуществляющие строительство, реконструкцию в границах придорожных полос
+                    автомобильных дорог объектов капитального строительства, объектов,
+                    предназначенных для осуществления дорожной деятельности, объектов дорожного
+                    сервиса, установку рекламных конструкций, информационных щитов и указателей без
+                    разрешения на строительство (в случае, если для строительства или реконструкции
+                    указанных объектов требуется выдача разрешения на строительство), без
+                    предусмотренного частью 8 настоящей статьи согласия или с нарушением технических
+                    требований и условий, подлежащих обязательному исполнению, по требованию органа,
+                    уполномоченного на осуществление государственного строительного надзора, и (или)
+                    владельцев автомобильных дорог обязаны прекратить осуществление строительства,
+                    реконструкции объектов капитального строительства, установку рекламных
+                    конструкций, информационных щитов и указателей, осуществить снос незаконно
+                    возведенных объектов и сооружений и привести автомобильные дороги в
+                    первоначальное состояние. В случае отказа от исполнения таких требований
+                    владельцы автомобильных дорог выполняют работы по ликвидации возведенных
+                    объектов или сооружений с последующей компенсацией затрат на выполнение этих
+                    работ за счет лиц, виновных в незаконном возведении указанных объектов,
+                    сооружений, в соответствии с законодательством Российской Федерации. Порядок
+                    осуществления владельцем автомобильной дороги мониторинга соблюдения технических
+                    требований и условий, подлежащих обязательному исполнению, устанавливается
+                    федеральным органом исполнительной власти, осуществляющим функции по выработке
+                    государственной политики и нормативно-правовому регулированию в сфере дорожного
+                    хозяйства», а также Приказом Министерства Транспорта РФ № 4 от 13.01.2010 г. «Об
+                    установлении и использовании придорожных полос автомобильных дорог федерального
+                    значения».</content_restrict_encumbrances>
+                <underlying_docs>
+                    <underlying_document>
+                        <document_code>
+                            <code>558221040000</code>
+                            <value>Документ, содержащий необходимые для внесения в государственный
+                                кадастр недвижимости сведения об установлении или изменении
+                                территориальной зоны или зоны с особыми условиями использования
+                                территорий, либо об отмене установления такой зоны</value>
+                        </document_code>
+                        <document_name>Распоряжение Федерального дорожного агентства (Росавтодор)</document_name>
+                        <document_number>1601-р</document_number>
+                        <document_date>2013-10-14</document_date>
+                        <document_issuer>Федеральное дорожное агентство (Росавтодор)</document_issuer>
+                    </underlying_document>
+                </underlying_docs>
+                <starting_date>2023-07-17</starting_date>
+            </restriction_encumbrance>
+        </restrictions_encumbrances>
+    </land_record>
+    <right_records>
+        <right_record>
+            <record_info>
+                <registration_date>2023-07-17T15:46:42+03:00</registration_date>
+            </record_info>
+            <right_data>
+                <right_type>
+                    <code>001001000000</code>
+                    <value>Собственность</value>
+                </right_type>
+                <right_number>50:12:0060110:535-50/215/2023-1</right_number>
+            </right_data>
+            <right_holders>
+                <right_holder>
+                    <legal_entity>
+                        <entity>
+                            <resident>
+                                <name>Общество с ограниченной ответственностью Спортивный комплекс
+                                    "ФОРТУНА"</name>
+                                <inn>5029074822</inn>
+                                <ogrn>1045005502640</ogrn>
+                            </resident>
+                        </entity>
+                    </legal_entity>
+                </right_holder>
+            </right_holders>
+        </right_record>
+    </right_records>
+    <recipient_statement>Болдырев Максим Павлович</recipient_statement>
+    <status>Сведения об объекте недвижимости имеют статус "актуальные"</status>
+</extract_about_property_land>
