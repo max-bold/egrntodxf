@@ -38,13 +38,7 @@ tree = et.parse(
     r"\\192.168.1.74\объекты\Б. Черная\Входящие\20250227 ЕГРН\report-8caf8a38-118d-4ff0-9daf-0754e4603adf-EPGU-2025-02-26-922276-50-01[0].xml"
 )
 root = tree.getroot()
-# for contour in root.iter("contour"):
-#         for sp in contour.iter("spatial_element"):
-#             points = []
-#             for ord in sp.iter("ordinate"):
-#                 points.append((float(ord.find("y").text), float(ord.find("x").text)))
-#             pl = msp.add_lwpolyline(points)
-# pl.close()
+
 doc.layers.add(name="kad_buildings", color=1)
 for bulding in root.iter("build_record"):
     getcontours(bulding, msp, "kad_buildings", closed=True)
